@@ -5,5 +5,7 @@ public class Runner {
 
         //Version 2
         System.out.println("version 2");
+        //version 3
+        System.out.println("version 3");
     }
 }
