@@ -26,8 +26,8 @@ public class Runner {
 
         //localda degisiklik
 
-        //remoto repoda degisiklik
-        //---------------------------
+        //dev2 min yaptigi degisiklik
+        //..................................
 
         
 
