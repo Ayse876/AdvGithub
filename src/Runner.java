@@ -26,8 +26,9 @@ public class Runner {
 
         //localda degisiklik
 
-        //dev2 min yaptigi degisiklik
-        //..................................
+
+        //techpro branch de degisiklik
+        //*********************************
 
         
 
