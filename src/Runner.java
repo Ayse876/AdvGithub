@@ -26,8 +26,8 @@ public class Runner {
 
         //localda degisiklik
 
-        //remoto repoda degisiklik
-        //---------------------------
+        //techpro branch de degisiklik
+        //*********************************
 
         
 
