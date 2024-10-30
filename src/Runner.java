@@ -17,5 +17,15 @@ public class Runner {
         //techpro
         System.out.println("techpro 3");
 
+
+
+
+
+
+
+        //remoto repoda degisiklik
+
+        
+
     }
 }
